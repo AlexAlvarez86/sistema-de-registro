@@ -5,5 +5,3 @@
 Para ejecutar el sistema debes poner;
 
 `npm install react`            //comillas realizan el marcador de texto
-
-sistema de REGISTRO2
